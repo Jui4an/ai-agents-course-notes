@@ -1,2 +1,2 @@
 # ai-agents-course-notes
-Learning Python → Neural Networks → AI -Agents
+Learning Python → Neural Networks → AI-Agents
